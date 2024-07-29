@@ -1,9 +1,16 @@
+#qwe
+#itrdit
+
+
+
 import flet as ft
 
 def main(page: ft.Page):
+    
     page.title = "JUDOCOIn"
+    
     page.theme_mode = ft. ThemeMode. DARK
-
+    
     page.bgcolor = "#179222"
     
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
